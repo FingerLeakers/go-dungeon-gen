@@ -38,3 +38,11 @@ And with this you can change maximum room size.
 `seed=NUMBER`
 <br>
 Use seed if you want to repeat previous result or generate new.
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
